@@ -10,7 +10,8 @@
 #  - Logs are saved in $LOGGER 
 #
 # History: 12/11/2018 created
-#           1/03/2019 Added YAML read and POST req for result
+#           1/03/2019 Added YAML read and POST req for result 
+#
 
 import-module powershell-yaml
 
